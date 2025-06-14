@@ -26,8 +26,8 @@ jobs:
     - name: Restore NuGet packages
       run: nuget restore DesktopApp/SCAE-UPT.sln
 
-    - name: Build Solution
-      run: msbuild DesktopApp/SCAE-UPT.sln /p:Configuration=Release
+    - name: Build pyDesktop_ScaeUPT
+      run: msbuild DesktopApp\pyDesktop_ScaeUPT\SCAE-UPT.csproj /p:Configuration=Release
 
     - name: Descargar Inno Setup
       run: |
