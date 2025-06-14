@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\",
+  "WorkspaceRootPath": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28C3B992-8647-4BAB-9CEE-BA47A5D5ADB5}|pyDesktop_ScaeUPT\\SCAE-UPT.csproj|c:\\users\\playg\\onedrive\\escritorio\\escritorio\\proyecto-arquitectura\\proyecto-si784-2025-i-u2-scae-upt\\desktopapp\\pydesktop_scaeupt\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SCAE-UPT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C3B992-8647-4BAB-9CEE-BA47A5D5ADB5}|pyDesktop_ScaeUPT\\SCAE-UPT.csproj|c:\\users\\playg\\onedrive\\escritorio\\escritorio\\proyecto-arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\desktopapp\\pydesktop_scaeupt\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{28C3B992-8647-4BAB-9CEE-BA47A5D5ADB5}|pyDesktop_ScaeUPT\\SCAE-UPT.csproj|solutionrelative:pydesktop_scaeupt\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C3B992-8647-4BAB-9CEE-BA47A5D5ADB5}|pyDesktop_ScaeUPT\\SCAE-UPT.csproj|c:\\users\\playg\\onedrive\\escritorio\\escritorio\\proyecto-arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\desktopapp\\pydesktop_scaeupt\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,10 +25,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SCAE-UPT",
+              "DocumentMoniker": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\SCAE-UPT.csproj",
+              "RelativeDocumentMoniker": "pyDesktop_ScaeUPT\\SCAE-UPT.csproj",
+              "ToolTip": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\SCAE-UPT.csproj",
+              "RelativeToolTip": "pyDesktop_ScaeUPT\\SCAE-UPT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T10:43:29.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\playg\\OneDrive\\Escritorio\\Escritorio\\Proyecto-Arquitectura\\mio\\asd\\proyecto-si784-2025-i-u2-scae-upt\\DesktopApp\\pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "pyDesktop_ScaeUPT\\Presentacion\\frmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T09:54:36.667Z",
